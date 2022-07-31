@@ -5,7 +5,7 @@ description = ""
 authors = ["Eric Mesa <ericsbinaryworld@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.9"
 fastapi = "^0.79.0"
 uvicorn = "^0.18.2"
 matrix-nio = "^0.19.0"
